@@ -23,6 +23,7 @@ BCM is a highly secure communication platform. Each message is strictly encrypte
 ### Other Features
 1. Large size group supported, up to 100000 users in one single group.
 2. Secure Data Vault: User may use BCM to store some sensitive information locally on the phone.
+3. Support Dark Mode
 
 Currently available on the Play store.
 
